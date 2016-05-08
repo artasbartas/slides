@@ -22,6 +22,8 @@ nav_list:
   Home : ['Home', '/', 'fa-home']
   Slides : ['Slides', '/slides', 'fa-plane']
   About : ['About', '/about', 'fa-anchor']
+single_footer: '<p>Old Macdonald had a farm E-I-E-I-O. Classics &copy; 2016 <a href="/">latest posts</a></p>'
+
 
 # Build settings
 markdown: kramdown
